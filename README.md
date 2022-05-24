@@ -1,5 +1,7 @@
 # Strapi plugin for Gatsby Cloud
 
+> :warning: **Deprecated**: use this plugin instead: https://github.com/relate-app/strapi-plugin-gatsby
+
 Syncing content with Gatsby Cloud and add preview button in Strapi.
 
 ```sh
